@@ -1,8 +1,7 @@
 # 🎈 Ballot Initiative App for Hugging Face Spaces
 
-A simple Streamlit app template for you to modify!
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/CivicTechDC/Ballot_Initiative)
 
-[![Open in Hugging Face](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
 
